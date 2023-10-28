@@ -28,19 +28,7 @@ body {
 section h1 {
   color: #fff;
 }
-/* slider */
-.banner-slide {
-  width: 80%;
-  height: 700px;
-  display: block;
-  margin: auto;
-}
-.banner-slide .slide img {
-  width: 100%;
-  height: 700px;
-  position: static;
-  padding-top: 5rem;
-}
+
 /* akhir slider */
 /* Hero _jumbo */
 .vektor {
